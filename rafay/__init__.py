@@ -1,1 +1,0 @@
-from .rafay import main
