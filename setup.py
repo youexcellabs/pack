@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="rafay",
-    version="1.0.2",
+    version="1.0.1",
     author="Muhammad Rafay Shaikh",
     author_email="datascience.youexcel@gmail.com",
     description="simple package",
